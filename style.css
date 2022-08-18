@@ -1,0 +1,35 @@
+.card1{
+    font-size: 17px;
+    border-radius: 12px;
+    padding: 16px 11px 16px 16px;
+    width: 140px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-right: 32px;
+    cursor: pointer;
+}
+.card1:hover{
+    background-color: #00AFE3;
+}
+.card1 > img{
+    width: 64px;
+    margin-bottom: 20px;
+}
+
+.card2{
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 16px 11px 16px 16px;
+    width: 140px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-right: 32px;
+    cursor: pointer;
+}
+.card2:hover{
+    background-color: #0D3E80;
+}
+.card2 > img{
+    width: 64px;
+    margin-bottom: 20px;
+}
